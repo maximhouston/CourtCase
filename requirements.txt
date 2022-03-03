@@ -1,0 +1,6 @@
+asyncio
+aiogram
+emoji
+bs4
+requests
+
